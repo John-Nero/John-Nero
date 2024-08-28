@@ -1,9 +1,9 @@
 # Olá! Eu sou o John e seja bem vindo ao meu perfil 🚀
 
 <div align="center">
-  <a href="https://github.com/uLucasBorges">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=uLucasBorges&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uLucasBorges&layout=compact&langs_count=7&theme=radical"/>
+  <a href="https://github.com/john-nero">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=john-nero&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=john-neros&layout=compact&langs_count=7&theme=radical"/>
   </a>
 </div>
 
