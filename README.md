@@ -15,7 +15,7 @@
   <img align="center" alt="Visual" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
   <img align="center" alt="VSCODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   </div>
-
+![GitHub Snake](https://raw.githubusercontent.com/OfficialCodeVoyage/OfficialCodeVoyage/58c1bb0b4dd66b4f7678ea697b5d766d5255c840/github-contribution-grid-snake-dark.svg)
 
 ## Sobre Mim 🙋‍♂️
 - **Especialização**: Estudante de Tecnologia da Informação
