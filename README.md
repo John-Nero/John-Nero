@@ -2,10 +2,10 @@
 
 <div align="center">
   <a href="https://github.com/john-nero">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=john-nero&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=john-nero&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/john-nero">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=john-nero&layout=compact&langs_count=7&theme=radical"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=john-nero&theme=merko&layout=compact&langs_count=7"/>
   </a>
 </div>
 
