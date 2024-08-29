@@ -42,5 +42,6 @@
 - [Aplicativo desktop](https://github.com/John-Nero/BancoFicV2): Sistema desktop desenvolvido em C# com forms, ele possuia algumas funções basicas como deposito, saque, emprestimo e transferencia entre contas, todos os dados são armazenados de forma local no modelo Json.
 
 ## Contato 📱
-- [LinkedIn](https://www.linkedin.com/in/johnlennondepaulabarros/)
-- [Email](mailto:lennon.pbarros@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/johnlennondepaulabarros/)
+- [![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:lennon.pbarros@gmail.com)
+
